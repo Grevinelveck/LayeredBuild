@@ -1,0 +1,22 @@
+name: "LayeredBuild"
+main: "at.grevinelveck.layeredbuild.LayeredBuild"
+version: "0.1"
+
+
+permissions:
+    LayeredBuild.*:
+        description: Allows you to build on all levels
+        children:
+            LayeredBuild.20: true
+            LayeredBuild.40: true
+            LayeredBuild.60: true
+            LayeredBuild.80: true
+            LayeredBuild.100: true
+            LayeredBuild.120: true
+            LayeredBuild.140: true
+            LayeredBuild.160: true
+            LayeredBuild.180: true
+            LayeredBuild.200: true
+            LayeredBuild.220: true
+            LayeredBuild.240: true
+            LayeredBuild.260: true
