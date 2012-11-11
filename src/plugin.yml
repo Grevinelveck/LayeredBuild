@@ -1,6 +1,6 @@
 name: "LayeredBuild"
 main: "at.grevinelveck.layeredbuild.LayeredBuild"
-version: "0.1"
+version: "0.2"
 
 
 permissions:

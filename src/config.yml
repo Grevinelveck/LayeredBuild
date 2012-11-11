@@ -1,0 +1,5 @@
+Messages:
+  WhenBlockBroken:
+    - "I'm sorry %player%. You're not allowed to break blocks at this height."
+  WhenBlockPlaced:
+    - "I'm sorry %player%. You're not allowed to place blocks at this height."
